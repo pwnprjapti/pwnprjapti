@@ -44,9 +44,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pwnprjapti&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnprjapti&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -54,17 +54,17 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=pwnprjapti&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/pwnprjapti
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: https://YOUR_PORTFOLIO
-- Email: YOUR_EMAIL@example.com
+- Portfolio: https://portfolio_under_constructi9n
+- Email: pwnprjapti@gmail.com
 
 ---
 
