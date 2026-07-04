@@ -2,14 +2,14 @@
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | MERN developer | Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Full-Stack+Developer;MERN+Developer;Cybersecurity+Learner;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Full-Stack+Developer;Enterpreneurial+Mindeset;Cybersecurity+Learner;Always+Learning+Something+New" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Aspiring Software Engineer
+- 💻 Aspiring Software Engineer with Enterpreneurial Mindset
 - 🌱 Currently learning **Full-Stack Development & DSA**
 - 🛡️ Interested in **Cybersecurity**
 - 🎯 Goal: Build impactful software that solves real-world problems
