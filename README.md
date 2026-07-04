@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pwn</h1>
+<h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Learner</h3>
 
 <p align="center">
