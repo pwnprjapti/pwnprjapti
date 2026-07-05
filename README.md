@@ -62,7 +62,7 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/pwnprjapti
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/pwn-parjapti-670262375?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Portfolio: https://portfolio_under_constructi9n
 - Email: pwnprjapti@gmail.com
 
